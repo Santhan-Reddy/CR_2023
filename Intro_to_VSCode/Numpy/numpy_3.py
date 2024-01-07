@@ -17,3 +17,6 @@ print(np.isinf(np.array([10]) / 0))
 
 print(np.sqrt(-1))
 print(np.array([10]) / 0)
+
+arr_eye = np.eye(6,6)
+print(arr_eye)
